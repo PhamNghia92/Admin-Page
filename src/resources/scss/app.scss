@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+.container {
+   width: 100%;
+   height: 100%;
+   background-color: black;
+    h1 {
+        color: rgb(255, 255, 255);
+        font-size: 36px;
+    }
+
+    h2 {
+        color: red;
+    }
+}
